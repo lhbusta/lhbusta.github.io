@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis Henrique Bustamante de Morais / Site Title"
+title                    : "Luis Henrique Bustamante de Morais"
 title_separator          : "-"
 name                     : &name "Luis Henrique Bustamante"
 description              : &description "Professor na Universidade Federal do Cariri"
@@ -58,11 +58,11 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "L. H. Bustamante"
+  avatar           : "foto.png"
+  bio              : "Aprendiz de Computação e Lógica."
+  location         : "Juazeiro do Norte/CE"
+  employer         : "Universidade Federal do cariri"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=kqJxuxcAAAAJ&hl=en"
+  email            : "lhbusta@ufca.edu.br"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Luis-Bustamante-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lhbusta"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "luisbustamante"
   vine             :
   weibo            :
   xing             :
