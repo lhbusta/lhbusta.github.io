@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "L. H. Bustamante"
-  avatar           : "foto.png"
-  bio              : "Aprendiz de Computação e Lógica."
+  avatar           : "foto1.png"
+  bio              : "Computação e Lógica."
   location         : "Juazeiro do Norte/CE"
-  employer         : "Universidade Federal do cariri"
+  employer         : "Universidade Federal do Cariri"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kqJxuxcAAAAJ&hl=en"
-  email            : "lhbusta@ufca.edu.br"
+  email            : "luis.bustamante@ufca.edu.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/Luis-Bustamante-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
