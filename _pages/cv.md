@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. em Computação, Universidade Federal do Ceará, 2009
+* M.S. em Ciências, Universidade de São Paulo, 2012
+* Dr. em Ciência da Computação, Universidade Federal do Ceará, 2019
 
-Work experience
+Experiência
 ======
 * Summer 2015: Research Assistant
   * Github University
