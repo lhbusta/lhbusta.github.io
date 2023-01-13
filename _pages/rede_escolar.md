@@ -1,6 +1,6 @@
 ---
-permalink: /nrede/
-title: "Page not in menu"
+permalink: /rede/
+title: "Informações sobre a rede escolar do ensino médio em Juazeiro do Norte"
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
