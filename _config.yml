@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Página pessoal"
+locale                   : "pt-BR"
+title                    : "Luis Henrique Bustamante"
 title_separator          : "-"
 name                     : &name "Luis Henrique Bustamante"
 description              : &description "Professor da UFCA e estudante de Lógica"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Luis Henrique Bustamante"
   avatar           : "photo_1.jpg"
-  bio              : "Professor da UFCA"
+  bio              : "Estudante e professor de Lógica"
   location         : "Juazeiro do Norte"
-  employer         : 
+  employer         : "Universidade Federal do Ceará"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "luis.bustamante[dot]ufca.edu.br"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
