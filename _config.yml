@@ -6,19 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-<<<<<<< HEAD
-locale                   : "en-US"
-title                    : "Luis Henrique Bustamante de Morais"
-title_separator          : "-"
-name                     : &name "Luis Henrique Bustamante"
-description              : &description "Professor na Universidade Federal do Cariri"
-=======
 locale                   : "pt-BR"
 title                    : "Luis Henrique Bustamante"
 title_separator          : "-"
 name                     : &name "Luis Henrique Bustamante"
 description              : &description "Professor da UFCA e estudante de Lógica"
->>>>>>> 120f54132b8c5ed41c8eea04dc959754ced941bb
 url                      : https://lhbusta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lhbusta/lhbusta.github.io"
@@ -65,21 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-<<<<<<< HEAD
-  username               : &twitter
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
-#og_image                 :  # Open Graph/Twitter default site image
-=======
   username               : &twitter luisbustamante
 facebook:
   username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
->>>>>>> 120f54132b8c5ed41c8eea04dc959754ced941bb
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -97,17 +80,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
-  name             : "L. H. Bustamante"
-  avatar           : "foto1.png"
-  bio              : "Computação e Lógica."
-  location         : "Juazeiro do Norte/CE"
-  employer         : "Universidade Federal do Cariri"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=kqJxuxcAAAAJ&hl=en"
-  email            : "luis.bustamante@ufca.edu.br"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Luis-Bustamante-2?ev=hdr_xprf"
-=======
   name             : "Luis Henrique Bustamante"
   avatar           : "photo_1.jpg"
   bio              : "Estudante e professor de Lógica"
@@ -117,7 +89,6 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "luis.bustamante[dot]ufca.edu.br"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
->>>>>>> 120f54132b8c5ed41c8eea04dc959754ced941bb
   uri              :
   bitbucket        :
   codepen          :
