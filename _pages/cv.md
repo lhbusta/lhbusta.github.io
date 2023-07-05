@@ -9,34 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. em Computação, Universidade Federal do Ceará, 2009
+* M.S. em Ciências, Universidade de São Paulo, 2012
+* Dr. em Ciência da Computação, Universidade Federal do Ceará, 2019
 
-Work experience
+Experiência
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Professor Adjunto
+  * Universidade Federal do Cariri
+  * Disciplinas:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Professor Substituto
+  * Universidade Federal da Paraíba
+  * Lógica aplicada à Computação
   
-Skills
+Áres de interesse
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aspectos Teóricos da Computação
+* Complexidade Parametrizada
+* Teoria dos Modelos Finitos
 
-Publications
+Publicações
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -48,12 +43,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Disciplinas
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Iniciação Científica
 ======
-* Currently signed in to 43 different slack teams
+* Luan Tavares
