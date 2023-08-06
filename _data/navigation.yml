@@ -2,25 +2,25 @@
 main:
   
   - title: "Ensino"
-    url: /ensino/    
+    url: /teaching/    
 
-  #- title: "Postagens"
-  #  url: /posts/
+  - title: "Postagens"
+    url: /posts/
 
-  #- title: "Publicações"
-  #  url: /publications/
+  - title: "Publicações"
+    url: /publications/
 
-  #- title: "Projetos"
-  #  url: /projetos/
+  - title: "Projetos"
+    url: /projetos/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
  
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "Guide"
     url: /markdown/

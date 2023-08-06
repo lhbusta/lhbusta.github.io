@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt"
+locale                   : "en-US"
 title                    : "Luis Henrique Bustamante"
 title_separator          : "-"
 name                     : &name "Luis Henrique Bustamante"
@@ -181,12 +181,12 @@ collection:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #talks:
-  #  output: true
-  #  permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
