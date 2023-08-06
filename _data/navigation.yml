@@ -4,20 +4,20 @@ main:
   - title: "Ensino"
     url: /teaching/    
 
-  - title: "Postagens"
-    url: /posts/
+  #- title: "Postagens"
+  #  url: /posts/
 
   - title: "Publicações"
     url: /publications/
 
-  - title: "Projetos"
-    url: /projetos/
+  #- title: "Projetos"
+  #  url: /projetos/
 
   - title: "Talks"
     url: /talks/    
  
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
