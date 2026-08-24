@@ -2,11 +2,11 @@
 title: "Parameterized Complexity of Some Prefix-Vocabulary Fragments of First-order Logic"
 collection: publications
 permalink: /publication/2018-06-27-parameterized-complexity-of-some-prefix-vocabulary-fragmentsp-of-first-order-logic
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We analyze the parameterized complexity of the satisfiability problem for some prefix-vocabulary fragments of First-order Logic with the finite model property.'
 date: 2018-06-27
-venue: 'International Workshop on Logic, Language, Information, and Computation'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'International Workshop on Logic, Language, Information, and Computation (WoLLIC)'
+paperurl: 'https://doi.org/10.1007/978-3-662-57669-4_9'
+citation: 'Bustamante, L. H., Martins, A. T., &amp; Ferreira, F. M. (2018). &quot;Parameterized Complexity of Some Prefix-Vocabulary Fragments of First-Order Logic.&quot; <i>Lecture Notes in Computer Science, vol. 10944</i>, p. 163&ndash;178.'
 ---
 
 
