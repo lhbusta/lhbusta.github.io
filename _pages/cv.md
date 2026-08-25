@@ -19,6 +19,12 @@ Formação
   * Tese: "Parameterized Complexity Investigations on the First-Order Satisfiability and Matching Problems"
   * Orientadora: Ana Teresa de Castro Martins; Coorientador: Francicleber Martins Ferreira
 
+Bolsas de formação
+======
+* CAPES — Doutorado, Universidade Federal do Ceará, 2014–2018
+* CNPq — Mestrado, Universidade de São Paulo, 2010–2011
+* Programa de Educação Tutorial (PET) / MEC-Sesu — Graduação, Universidade Federal do Ceará, 2005–2009
+
 Experiência
 ======
 * 2022 – atual: Professor (Dedicação exclusiva)
@@ -78,3 +84,9 @@ Orientações
 **Iniciação científica concluída**
 * Luan Tavares Arraes — Métodos formais da Lógica aplicados em Complexidade Parametrizada (2023)
 * Julyanderson Alves Cavalcanti de Lima — Experimentação Computacional de Resolvedores para Satisfatibilidade Proposicional (2023)
+
+Habilidades computacionais
+======
+* Linguagens de programação: C, Fortran, Java, Python, Prolog, shell script UNIX, GNU make, SQL, MySQL, MATLAB
+* Aplicações de produtividade: TeX (LaTeX, BibTeX, Metapost), Vim
+* Sistemas operacionais: Microsoft Windows, Linux e outras variantes UNIX
