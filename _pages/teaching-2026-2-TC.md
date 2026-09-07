@@ -36,6 +36,8 @@ Exposição do conteúdo, exercícios e resolução de problemas.
 
 ## Avaliação
 
+Os tópicos da disciplina serão apresentados em aulas expositivas. Após a conclusão da exposição de cada tópico, serão ministradas aulas para resolução de exercícios.
+
 A avaliação da disciplina será dada por três notas: uma nota NL para o conjunto das listas de exercícios, uma nota P1 para a primeira avaliação escrita a ser realizada na metade da disciplina e uma nota P2 para a segunda avaliação escrita a ser feita no final da disciplina.
 
 MF = 0,3×NL + 0,3×P1 + 0,4×P2
@@ -49,14 +51,19 @@ Caso P1 < 3,0, o aluno poderá optar por: MF = 0,3×NL + 0,7×P2
 3. Computação por uma Máquina de Turing
 4. Técnicas de simulação — múltiplas fitas
 5. Máquinas de Turing não-determinísticas
-6. Funções recursivas primitivas (PR)
-7. Limitações do formalismo PR
-8. Outros modelos de computação (Lambda-cálculo, gramáticas, linguagens de programação)
-9. Tese de Church-Turing
-10. Máquinas de Turing Universais
-11. Problemas indecidíveis — Problema da Parada
-12. Teorema de Rice e outros problemas indecidíveis
-13. Técnicas de redução
+6. Exercícios (Aulas 2–5)
+7. Funções recursivas primitivas (PR)
+8. Limitações do formalismo PR
+9. Outros modelos de computação (Lambda-cálculo, gramáticas, linguagens de programação)
+10. Tese de Church-Turing
+11. Máquinas de Turing Universais
+12. Exercícios (Aulas 7–11)
+13. Problemas indecidíveis — Problema da Parada
+14. Teorema de Rice e outros problemas indecidíveis
+15. Técnicas de redução
+16. Exercícios (Aulas 13–15)
+17. Revisão geral
+18. Apresentação de trabalhos / encerramento
 
 ## Bibliografia
 

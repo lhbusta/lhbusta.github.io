@@ -45,14 +45,17 @@ Caso AV1 < 3,0, o aluno poderá optar por: MF = 0,3×NL + 0,7×AV2
 5. Complexidade de SAT — NP-completude
 6. Algoritmo DPLL
 7. Heurísticas de decisão em DPLL
-8. CDCL — aprendizado de cláusulas
-9. CDCL — VSIDS e reinícios (restarts)
-10. Revisão de lógica de primeira ordem
-11. Satisfatibilidade Módulo Teorias (SMT)
-12. Teorias decidíveis (aritmética, arrays, uninterpreted functions)
-13. Método de Nelson-Oppen (combinação de teorias)
-14. Solvers modernos: Z3 e cvc5
-15. Aplicações: verificação de programas
+8. Exercícios / laboratório (DPLL)
+9. CDCL — aprendizado de cláusulas
+10. CDCL — VSIDS e reinícios (restarts)
+11. Exercícios / laboratório (CDCL)
+12. Revisão de lógica de primeira ordem
+13. Satisfatibilidade Módulo Teorias (SMT)
+14. Teorias decidíveis (aritmética, arrays, uninterpreted functions)
+15. Método de Nelson-Oppen (combinação de teorias)
+16. Solvers modernos: Z3 e cvc5
+17. Laboratório com Z3/cvc5
+18. Aplicações: verificação de programas
 
 ## Bibliografia
 
@@ -64,3 +67,5 @@ Caso AV1 < 3,0, o aluno poderá optar por: MF = 0,3×NL + 0,7×AV2
 - [SAT/SMT by Example](https://sat-smt.codes/SAT_SMT_by_example.pdf)
 - [Z3 Guide](https://microsoft.github.io/z3guide/)
 - [cvc5 Python API](https://cvc5.github.io/docs/cvc5-1.0.2/api/python/python.html)
+- https://link.springer.com/content/pdf/10.1007/978-3-540-74113-8.pdf
+- https://link.springer.com/content/pdf/10.1007/978-3-540-74105-3.pdf
