@@ -42,9 +42,11 @@ Aulas expositivas acompanhadas de listas de exercícios. Aulas tira-dúvidas e a
 
 ## Avaliação
 
-MF = 0,3×NL + 0,3×P1 + 0,4×P2
+A avaliação da disciplina será dada por quatro provas: Av1, Av2, Av3 e Av4. A Av2 e a Av3 têm peso 2, pois cobrem um conteúdo maior:
 
-Caso P1 < 3,0, o aluno poderá optar por: MF = 0,3×NL + 0,7×P2
+MF = (Av1 + 2×Av2 + 2×Av3 + Av4) / 6
+
+As listas de exercícios não compõem a nota.
 
 ## Cronograma do Curso
 

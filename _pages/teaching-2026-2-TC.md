@@ -38,11 +38,13 @@ Exposição do conteúdo, exercícios e resolução de problemas.
 
 Os tópicos da disciplina serão apresentados em aulas expositivas. Após a conclusão da exposição de cada tópico, serão ministradas aulas para resolução de exercícios.
 
-A avaliação da disciplina será dada por três notas: uma nota NL para o conjunto das listas de exercícios, uma nota P1 para a primeira avaliação escrita a ser realizada na metade da disciplina e uma nota P2 para a segunda avaliação escrita a ser feita no final da disciplina.
+A avaliação da disciplina será dada por três avaliações escritas: Av1, Av2 e Av3. A média final é a média aritmética das três avaliações:
 
-MF = 0,3×NL + 0,3×P1 + 0,4×P2
+MF = (Av1 + Av2 + Av3) / 3
 
-Caso P1 < 3,0, o aluno poderá optar por: MF = 0,3×NL + 0,7×P2
+Não há nota para listas de exercícios.
+
+Trabalho opcional: o aluno poderá realizar um trabalho opcional (por exemplo, uma atividade prática de formalização em Lean 4) para complementar a média final.
 
 ## Cronograma do Curso
 
