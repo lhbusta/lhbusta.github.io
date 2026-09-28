@@ -57,20 +57,23 @@ As listas de exercícios não compõem a nota.
 - Aula 05: Multilistas e listas esparsas
 - Aula 06: Pilhas e filas
 - Aula 07: Heaps e ordenação em O(n log n)
+
 - Aula 08: Listas encadeadas
 - Aula 09: Listas duplamente encadeadas
 - Aula 10: Pilhas e filas em alocação encadeada
 - Aula 11: Algoritmos recursivos para listas encadeadas
-- Aula 12: Árvore binária de busca
-- Aula 13: Algoritmos recursivos para inspeção de árvores
-- Aula 14: Algoritmos recursivos para manipulação de árvores
-- Aula 15: Expressões aritméticas
-- Aula 16: Listas de prioridade (Heaps)
-- Aula 17: Árvores 2-3
-- Aula 18: Árvores rubro-negras
-- Aula 19: Árvores AVL
-- Aula 20: Tabelas de dispersão I
-- Aula 21: Tabelas de dispersão II
+- Aula 12: Tabelas de dispersão I
+- Aula 13: Tabelas de dispersão II
+
+- Aula 14: Árvore binária de busca
+- Aula 15: Algoritmos recursivos para inspeção de árvores
+- Aula 16: Algoritmos recursivos para manipulação de árvores
+- Aula 17: Expressões aritméticas
+
+- Aula 18: Árvores 2-3
+- Aula 19: Árvores rubro-negras
+- Aula 20: Árvores AVL
+- Aula 21: Árvores B e B+
 
 ## Bibliografia
 
