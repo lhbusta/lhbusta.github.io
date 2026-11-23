@@ -47,6 +47,29 @@ onde:
 
 As listas de exercícios não têm nota própria: elas contam como pontos no trabalho (entregas de implementação).
 
+## Trabalhos
+
+As entregas formam um único solver, construído em etapas em C++17. Cada aluno trabalha num repositório **privado** próprio (`ral-solver-<matrícula>`), criado a partir do template da Entrega 1, com o usuário `bustamante` como colaborador. As entregas seguintes acrescentam arquivos a esse mesmo repositório. Instruções completas no README de cada entrega.
+
+| Entrega | Conteúdo | Repositório base | Prazo |
+|---|---|---|---|
+| **E1** | DPLL com watched literals, heurística Jeroslow-Wang e backtracking cronológico | [ufca-ral-2026-2/entrega1](https://github.com/ufca-ral-2026-2/entrega1) | 14/11/2026 |
+| **E2** | CDCL: análise de conflito pelo 1-UIP, aprendizado de cláusulas, backjumping, VSIDS e reinícios de Luby | [ufca-ral-2026-2/entrega2](https://github.com/ufca-ral-2026-2/entrega2) | 19/12/2026 |
+| **E3** | CDCL(T) com EUF e Difference Logic | *a divulgar* | *a definir* |
+
+### Entrega 2 — CDCL
+
+Estende o DPLL da Entrega 1. O aluno implementa `src/cdcl.cpp` (`assign`, `add_clause`, `propagate`, `analyze`, `backjump`, `solve`), `src/vsids.cpp` e `src/restart.cpp`. O repositório base traz os headers, o programa principal (que confere o modelo e imprime estatísticas), um script de testes e 26 instâncias DIMACS (rainhas, casa dos pombos e 3-SAT aleatório).
+
+| Critério | Peso |
+|---|---|
+| Corretude em `tests/sat` e `tests/unsat` (resposta e modelo) | 40% |
+| Análise de conflito (1-UIP), aprendizado e backjumping | 30% |
+| VSIDS com fase salva | 10% |
+| Reinícios de Luby | 10% |
+| `tests/desafio` em até 60 s cada | 10% |
+| Bônus: heap no VSIDS, minimização de cláusulas, limpeza de aprendidas | até +10% |
+
 ## Cronograma do Curso
 
 1. Apresentação da disciplina / motivação
